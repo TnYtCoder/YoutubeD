@@ -44,7 +44,7 @@ If You Want To Move That Video Clip To Your Local Storage Then Use This Command 
 
 
 ```
-mv FILENAME ../sdcard
+mv FILENAME /sdcard
 ```
 
 > This Command Will Automatically Move Your Downloaded File To Your Sdcard
