@@ -74,6 +74,6 @@ https://github.com/TnYtCoder/YoutubeD/assets/115485810/2800bd60-8e3a-4bd8-84ec-3
 ## Thanks You
 Thank You For Using This Tool ❤️
 
-If You Are Getting Any Error Then Read **Not To Do** But If You Getting Error After All Doing This Then Pull Issue I'll Be Happy To Solve Your Issue 😉
+`If You Are Getting Any Error Then Read Not To Do But If You Getting Error After All Doing This Then Pull Issue I'll Be Happy To Solve Your Issue` 😉
 
 _Thank You_
