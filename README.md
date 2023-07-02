@@ -26,4 +26,15 @@ cd YoutubeD
 bash install.sh
 ```
 
-You Have To Install The Requirements To Avoid The Unwanted Errors 
+You Have To Install The `Requirements To Avoid The Unwanted Errors`. 
+
+To Start The Process Run -->
+
+```
+bash start.sh
+```
+
+Here You Go ! 
+> You Started The Video Downloader In Your Termux.
+
+If You Want To Move That Video Clip To Your Local Storage Then
