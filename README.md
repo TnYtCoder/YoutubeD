@@ -20,3 +20,10 @@ pkg install bash
 
 Lets `Download` The Tool Into Your Termux -->
 
+```
+git clone https://github.com/TnYtCoder/YoutubeD
+cd YoutubeD
+bash install.sh
+```
+
+You Have To Install The Requirements To Avoid The Unwanted Errors 
