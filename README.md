@@ -41,7 +41,7 @@ If You Want To Move That Video Clip To Your Local Storage Then Use This Command 
 
 
 ```
-mv FILENAME /sdcard
+mv FILENAME ../sdcard
 ```
 
 > This Command Will Automatically Move Your Downloaded File To Your Sdcard
@@ -57,3 +57,23 @@ mv FILENAME /sdcard
 
 ## How to Use ?
 _If You Are Confused With Downloading Interface Then I Will Recommend You To Watch This_ -->
+
+This Video Is For `Update.sh` -->
+
+
+https://github.com/TnYtCoder/YoutubeD/assets/115485810/6c0ace6c-3de2-48db-bb3e-b0e3d82603b7
+
+
+
+This Video Is For `Start.sh` -->
+
+
+https://github.com/TnYtCoder/YoutubeD/assets/115485810/2800bd60-8e3a-4bd8-84ec-37e26abb7ca3
+
+
+## Thanks You
+Thank You For Using This Tool ❤️
+
+If You Are Getting Any Error Then Read **Not To Do** But If You Getting Error After All Doing This Then Pull Issue I'll Be Happy To Solve Your Issue 😉
+
+_Thank You_
