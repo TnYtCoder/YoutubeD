@@ -45,3 +45,15 @@ mv FILENAME /sdcard
 ```
 
 > This Command Will Automatically Move Your Downloaded File To Your Sdcard
+
+## Not To Do 
+`Do Not Remove Any File Or Change Anything Init. This Will Make Files Useless & You Have Many Errors`
+
+`Your Downloaded Video Will Visible In "YoutubeD" Folder, So Don't Make Changes In That Folder.`
+
+`Do Not Rename "config" folder, because .sh cannot recognise the renamed folder`
+
+`Do Not Uninstall Any Pkg To Avoid Error`
+
+## How to Use ?
+_If You Are Confused With Downloading Interface Then I Will Recommend You To Watch This_ -->
