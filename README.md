@@ -37,4 +37,11 @@ bash start.sh
 Here You Go ! 
 > You Started The Video Downloader In Your Termux.
 
-If You Want To Move That Video Clip To Your Local Storage Then
+If You Want To Move That Video Clip To Your Local Storage Then Use This Command -->
+
+
+```
+mv FILENAME /sdcard
+```
+
+> This Command Will Automatically Move Your Downloaded File To Your Sdcard
