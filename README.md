@@ -16,7 +16,7 @@ apt update
 apt upgrade
 pkg install git
 pkg install python
-pkg install bash
+apt install bash
 ```
 
 `These Are Required To Run This Tool ☝️`
